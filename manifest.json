@@ -1,8 +1,8 @@
 {
-  "id": "gojowtf",
-  "name": "GojoWtf",
+  "id": "Hianime",
+  "name": "Hianime",
   "description": "GojoWtf is an online streaming provider for subbed and dubbed anime in English. It supports two providers: Strix and Pahe, both of which offer subbed and dubbed content",
-  "manifestURI": "https://raw.githubusercontent.com/kRYstall9/Seanime-streaming-providers/refs/heads/main/src/GojoWtf/manifest.json",
+  "manifestURI": "https://github.com/Brokenest/hianime/edit/main/manifest.json#L3C18",
   "version": "1.0.2",
   "author": "kRYstall9",
   "type": "onlinestream-provider",
