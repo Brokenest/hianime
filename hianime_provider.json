@@ -2,7 +2,7 @@
   "id": "hianime",
   "name": "HiAnime",
   "description": "HiAnime is an online streaming provider for subbed and dubbed anime in English. It uses the Aniwatch API proxy backend (aniwatch-api-2-0.vercel.app) to access HiAnime.to content.",
-  "manifestURI": "https://raw.githubusercontent.com/yourusername/Seanime-streaming-providers/main/src/HiAnime/manifest.json",
+  "manifestURI": "https://raw.githubusercontent.com/Brokenest/hianime/refs/heads/main/hianime_provider.json",
   "version": "1.0.0",
   "author": "yourusername",
   "type": "onlinestream-provider",
